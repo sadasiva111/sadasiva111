@@ -1,6 +1,6 @@
-[![MasterHead](https://drive.google.com/file/d/1ETlX8VSmGvblaxKLaNk3roPCC7gxrAZm/view?usp=share_link)]
+<img src="Banner.svg" width=100%>
 <h1 align="center">Hi 👋, I'm Sada Siva Kumar</h1>
-<h3 align="center">As a recent graduate, I am dedicated to improving my skills and knowledge in the field of technology.</h3>
+<h3 align="center">As a recent graduate, I am dedicated to improving my skills and knowledge in the field of technology. I'm currently working as an Software Developer Intern at UIDAI Technology Center, Bengaluru. </h3>
 
 - 🔭 I’m currently working on **Telemetry Service**
 
