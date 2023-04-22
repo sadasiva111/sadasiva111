@@ -1,4 +1,4 @@
-<img src="Banner.gif" width=100%>
+![](https://github.com/sadasiva111/sadasiva111/blob/ee4baa4114985770edc9af5e23eb46f19e50a325/Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Sada Siva Kumar</h1>
 <h3 align="center">As a recent graduate, I am dedicated to improving my skills and knowledge in the field of technology. I'm currently working as an Software Developer Intern at UIDAI Technology Center, Bengaluru. </h3>
