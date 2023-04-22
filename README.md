@@ -1,5 +1,5 @@
 <img src="Banner.gif" width=100%>
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sada Siva Kumar
+Hi !<img src="hand.gif">My name is Sada Siva Kumar
 =======================================================================================================================================
 <h3 align="center">As a recent graduate, I am dedicated to improving my skills and knowledge in the field of technology. I'm currently working as an Software Developer Intern at UIDAI Technology Center, Bengaluru. </h3>
 
