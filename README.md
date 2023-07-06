@@ -1,7 +1,7 @@
-<img  width="478" height="480" frameBorder="0" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDcxeWY4M2I3MWIza25neWwzNGpuOWwyZnpka3piNWhwODMzYW96eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXQvCu6QoD8aVtskMb/giphy.gif" width=100%>
+<p align="center"><img  width="778" height="680" frameBorder="0" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDcxeWY4M2I3MWIza25neWwzNGpuOWwyZnpka3piNWhwODMzYW96eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXQvCu6QoD8aVtskMb/giphy.gif" width=100%> </p>
 
 <h1 align="center">Hi 👋, I'm Sada Siva Kumar</h1>
-<h3 align="center">As a recent graduate, I am dedicated to improving my skills and knowledge in the field of technology. I'm currently working as an Software Developer Intern at UIDAI Technology Center, Bengaluru. </h3>
+<h3 align="center">As a recent graduate, I am dedicated to improving my skills and knowledge in the field of technology. I'm currently working as an Software Developer Intern at UIDAI Technology Center, Bengaluru. </h3> 
 
 - 🔭 I’m currently working on **Telemetry Service**
 
@@ -25,6 +25,7 @@
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
 <br/>
 <br/>
+<br/>
 
 🖼️  Frameworks and Tools:
 
@@ -40,8 +41,9 @@
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
 <br/>
 <br/>
+<br/>
 
-### 🛠️  DevOps Tools:
+🛠️  DevOps Tools:
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
@@ -52,8 +54,9 @@
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" />
 <br/>
 <br/>
+<br/>
 
-### 📚  Databases:
+📚  Databases:
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
@@ -64,8 +67,9 @@
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" /> -->
 <br/>
 <br/>
+<br/>
 
-### 💻  IDE:
+💻  IDE:
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Vim.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
@@ -73,14 +77,16 @@
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" />
 <br/>
 <br/>
+<br/>
 
-<p align=center>
-###
-![](https://github-readme-streak-stats.herokuapp.com/?user=sadasiva111&theme=gotham&hide_border=false)<br/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sadasiva111&theme=gotham&hide_border=false" /><br/>
+✍️ Random Dev Quote
 </p>
-###  ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
+</p>
 
 
 <!--START_SECTION:waka-->
