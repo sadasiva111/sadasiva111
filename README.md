@@ -83,11 +83,13 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadasiva111&theme=gotham&hide_border=false" /><br/>
 
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sadasiva111&layout=compact&theme=midnight-purple&range=all_time"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=sadasiva111&layout=compact&theme=midnight-purple&range=all_time"/>
+</p>
+<p align="center">
 ✍️ Random Dev Quote
 </p>
 <p align="center">
-  
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
 </p>
 
