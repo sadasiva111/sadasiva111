@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/dXQvCu6QoD8aVtskMb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tech-dXQvCu6QoD8aVtskMb">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/dXQvCu6QoD8aVtskMb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <h1 align="center">Hi 👋, I'm Sada Siva Kumar</h1>
 <h3 align="center">As a recent graduate, I am dedicated to improving my skills and knowledge in the field of technology. I'm currently working as an Software Developer Intern at UIDAI Technology Center, Bengaluru. </h3>
