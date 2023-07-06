@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-### 🖼️  Frameworks and Tools:
+🖼️  Frameworks and Tools:
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" />
 
