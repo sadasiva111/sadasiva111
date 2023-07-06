@@ -15,7 +15,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-### 📝  Programming Languages:
+📝  Programming Languages:
 
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
