@@ -11,10 +11,8 @@
 
 - 📫 How to reach me **sadasiva6699@gmail.com**
 
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
+
 📝  Programming Languages:
 
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C.svg" />
@@ -28,8 +26,6 @@
 <br/>
 
 🖼️  Frameworks and Tools:
-
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" />
 
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/React.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Redux.svg" />
