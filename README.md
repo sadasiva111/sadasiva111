@@ -1,4 +1,4 @@
-<img src="giphy.gif" width=100%>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDcxeWY4M2I3MWIza25neWwzNGpuOWwyZnpka3piNWhwODMzYW96eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dXQvCu6QoD8aVtskMb/giphy.gif" width=100%>
 
 <h1 align="center">Hi 👋, I'm Sada Siva Kumar</h1>
 <h3 align="center">As a recent graduate, I am dedicated to improving my skills and knowledge in the field of technology. I'm currently working as an Software Developer Intern at UIDAI Technology Center, Bengaluru. </h3>
