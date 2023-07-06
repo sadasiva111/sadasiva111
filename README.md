@@ -74,9 +74,10 @@
 <br/>
 <br/>
 
+<p align=center>
 ###
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sadasiva111&theme=gotham&hide_border=false)<br/>
-
+</p>
 ###  ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
