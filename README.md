@@ -90,7 +90,7 @@
 </p>
 
 <a href="https://github.com/sadasiva111/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadasiva111&repo=github-readme-stats&theme=midnight-purple&range=all_time" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sadasiva111&repo=github-readme-stats&theme=midnight-purple" />
 </a>
 
 <!--START_SECTION:waka-->
