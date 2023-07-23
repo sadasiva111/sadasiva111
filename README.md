@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go Language, Prometheus, Apache Kafka, Elastic Search.**
 
-- 💬 Ask me about **Java, Python, DevOps.**
+- 💬 Ask me about **Java, DSA, Python, DevOps.**
 
 - 📫 How to reach me **sadasiva6699@gmail.com**
 
@@ -16,10 +16,12 @@
 📝  Programming Languages:
 
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Go.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
+  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/The-Algorithms.svg" />
 <br/>
 <br/>
 <br/>
@@ -66,6 +68,7 @@
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Vim.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" />
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" />
 <br/>
 <br/>
