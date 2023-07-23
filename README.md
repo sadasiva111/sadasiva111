@@ -19,7 +19,6 @@
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Go.svg" />
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
-<!--   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Rust.svg" /> -->
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
 <br/>
 <br/>
@@ -32,7 +31,6 @@
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Spring.svg" />
-<!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" /> -->
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
 <br/>
@@ -58,9 +56,7 @@
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Redis.svg" />
 <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
-
-<!-- <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Blender.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" /> -->
+<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
 <br/>
 <br/>
 <br/>
@@ -89,7 +85,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
 </p>
 
- <a href="https://github.com/sadasiva111/github-readme-activity-graph"><img alt="Sadasiva's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sadasiva111&theme=merko&hide_border=true"/></a>
+<a href="https://github.com/sadasiva111/github-readme-activity-graph"><img alt="Sadasiva's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sadasiva111&theme=merko&hide_border=true"/></a>
  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
