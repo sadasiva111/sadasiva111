@@ -89,5 +89,7 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko"/>
 </p>
 
+ <a href="https://github.com/sadasiva111/github-readme-activity-graph"><img alt="Sadasiva's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sadasiva111&theme=merko&hide_border=true"/></a>
+ 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
