@@ -12,8 +12,7 @@
 - 📫 How to reach me **sadasiva6699@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+
 📝  Programming Languages:
 
   <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C.svg" />
@@ -25,8 +24,6 @@
 <br/>
 <br/>
 <br/>
-
-<details> 
 
 🖼️  Frameworks and Tools:
 
