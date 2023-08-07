@@ -81,6 +81,13 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sadasiva111&layout=compact&theme=midnight-purple&range=all_time"/>
 </p>
+
+</p>
+<p align="center">
+  Visiter Count <br/> <br/>
+<img src="https://profile-counter.glitch.me/sadasiva111/count.svg" />
+</p>
+
 <p align="center">
 ✍️ Random Dev Quote
 </p>
