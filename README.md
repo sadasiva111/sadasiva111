@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go Language, Prometheus, Apache Kafka, Elastic Search.**
 
-- 💬 Ask me about **Java, DSA, Python, DevOps.**
+- 💬 Ask me about **Go, Java, DSA, Python, DevOps, React JS.**
 
 - 📫 How to reach me **sadasiva6699@gmail.com**
 
