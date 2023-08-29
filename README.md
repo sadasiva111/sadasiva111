@@ -14,62 +14,32 @@
 <h3 align="left">Languages and Tools:</h3>
 
 📝  Programming Languages:
+  
+<img src="https://skillicons.dev/icons?i=c,cpp,java,go,python,javascript" />
 
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Go.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/The-Algorithms.svg" />
-<br/>
-<br/>
 <br/>
 
 🖼️  Frameworks and Tools:
 
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/React.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Redux.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Spring.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
-<br/>
-<br/>
+<img src="https://skillicons.dev/icons?i=react,redux,nodejs,svelte,spring,tailwind,postman," />
+
 <br/>
 
 🛠️  DevOps Tools:
 
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Docker.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Grafana.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" />
-<br/>
-<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,kubernetes,prometheus,grafana,jenkins,kafka" />
+
 <br/>
 
 📚  Databases:
 
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Firebase.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Redis.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
-<br/>
-<br/>
+<img src="https://skillicons.dev/icons?i=firebase,mongodb,redis,postgres,figma" />
+
 <br/>
 
 💻  IDE:
 
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Vim.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Eclipse-IDE.png" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Android-Studio.svg" />
+<img src="https://skillicons.dev/icons?i=vim,vscode,eclipse,androidstudio" /> <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/IntelliJ-IDEA.svg" />
 <br/>
 <br/>
 <br/>
